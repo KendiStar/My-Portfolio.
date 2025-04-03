@@ -8,7 +8,7 @@ This is my personal portfolio website , showcasing my projects and skills.
 -Contact Information
 
 ## How to access the portfolio
--Visit 
+-Visit https://github.com/KendiStar/My-Portfolio.
 
 ## Technlogies used
 - HTML, CSS, JavaScript
